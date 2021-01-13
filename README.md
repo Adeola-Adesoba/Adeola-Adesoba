@@ -17,7 +17,7 @@ Python | R | SQL | AWS | OpenRefine
 - 👯 I’m looking to collaborate on Projects, buidling a Data Science community etc
 - 🤔 I’m looking for help with finiding an Internship & building more Machine Learning Projects especially in FinTech
 - 💬 Ask me about Open source Contribution, Volunteering and anything!
-- 📫 How to reach me:
+- 📫 How to reach me: https://www.linkedin.com/in/adeola-adesoba/
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play Soccer!
 
