@@ -12,10 +12,10 @@ Python | R | SQL | AWS | OpenRefine
 
 ### Hi there, Thanks for checking out my Profile 👋
 
-- 🔭 I’m currently working on Computer Vision and Machine Learning Projects
+- 🔭 I’m currently working on using Network Analysis & Graph Theories to investigate Social behavior/events plus Computer Vision and Machine Learning Projects
 - 🌱 I’m currently learning about AWS, GCP and Azure Cloud Technologies
 - 👯 I’m looking to collaborate on Projects, buidling a Data Science community etc
-- 🤔 I’m looking for help with finiding an Internship & building more Machine Learning Projects especially in FinTech
+- 🤔 I’m looking for seeking Full Time positions & building more Machine Learning Projects
 - 💬 Ask me about Open source Contribution, Volunteering and anything!
 - 📫 How to reach me: https://www.linkedin.com/in/adeola-adesoba/
 - 😄 Pronouns: She/Her/Hers
